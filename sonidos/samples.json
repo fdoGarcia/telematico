@@ -1,6 +1,5 @@
 [ 
-  { "url":"one.wav","type":"audio","bank":"inicio","n":0},
-  { "url":"four.wav","type":"audio","bank":"inicio","n":1},
-  { "url":"five.wav","type":"audio","bank":"inicio","n":2},
-  { "url":"drumachine.wav","type":"audio","bank":"inicio","n":3},
+  { "url":"numeros/one.wav","type":"audio","bank":"numeros","n":0},
+  { "url":"numeros/four.wav","type":"audio","bank":"numeros","n":1},
+  { "url":"numeros/five.wav","type":"audio","bank":"numeros","n":2},
 ]
